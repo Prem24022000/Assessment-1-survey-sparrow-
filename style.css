@@ -28,6 +28,8 @@ h4{
     font-size: 1.5rem;
 }
 
+/* ------list------ */
+
 ul{
     list-style: none;
     display: flex;
@@ -40,14 +42,19 @@ li{
     margin: 0 60px;
 }
 
+/* -----bold----- */
+
 .bold{
     font-weight: bolder;
 }
 
+/* -----main-paragraph------ */
 .main-para{
     width: 400px;
     font-size: 1.2rem;
 }
+
+/* ------width------ */
 
 .wl{
     width: 1000px;
@@ -70,6 +77,7 @@ li{
     font-size: 1.1rem;
 }
 
+/* -----paragraph------ */
 p{
     
     text-align: center;
@@ -87,8 +95,8 @@ p{
     padding: 150px;
 }
 
-.plr-450{
-    padding: 150px 450px;
+.plr-250{
+    padding: 150px 250px;
 }
 
 /* ------container-------- */
